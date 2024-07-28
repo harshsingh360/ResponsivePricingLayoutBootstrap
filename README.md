@@ -1,0 +1,2 @@
+# ResponsivePricingLayoutBootstrap
+Responsive pricing layout bootstrap component
